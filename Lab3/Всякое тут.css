@@ -1,0 +1,69 @@
+
+header{
+	text-align: center; 
+    font-family: sans-serif;
+	margin: none; 
+	color: white; 
+	background: #0a3763;
+	padding: 0.5px
+}
+
+.text-block {margin-left:20px;}
+
+
+body {
+    margin: 0; /* Убираем отступы */
+    height: 100%; /* Высота страницы */
+    background: url(Фон.jpg); /* Параметры фона */
+    background-size: cover; /* Фон занимает всю доступную площадь */
+   } 
+   
+footer{
+	margin-top: 40px;
+	color:black;
+	text-align: center;
+	}
+
+main {
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	background: #f0ffff;
+}
+nav {
+    
+	margin-top: 0px;
+	text-align: center;
+}
+content {
+	background: none;
+	margin-left: 130px;
+}
+
+a {
+	width: 100px;
+	text-decoration: none;
+}
+
+li {
+	display:inline-block;
+    margin: 0;
+      padding: 15px 50px;
+      list-style-type: none;
+      width: 200px;
+      text-align: center;
+}
+
+.image {
+	text-align: center;
+	margin: 20px;
+}
+.text {
+	margin-left:20px;
+	margin-right:20px;
+	font-family: Times, Times New Roman, Georgia, serif;
+}
+.text1 {
+	text-align: center;
+	font-family: Times, Times New Roman, Georgia, serif;
+}
